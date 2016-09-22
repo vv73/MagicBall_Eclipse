@@ -2,6 +2,8 @@
 
 Учебный Android-проект 
 
+![MagicBall](pic.png)
+
 **Задания:**
 
 * Добавить предсказания (`res/values/strings.xml` и функция `tap()` класса `MainActivity`)
